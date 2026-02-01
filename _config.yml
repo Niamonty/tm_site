@@ -5,8 +5,8 @@ description: >- # Описание сайта
   ХАХАХАХХ
 
 # Настройки путей
-baseurl: "/tm_site"
-url: "https://niamonty.github.io"
+baseurl: ""
+url: "https://tendymesh.com"
 
 # Сборка
 markdown: kramdown
