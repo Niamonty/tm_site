@@ -2,11 +2,11 @@
 title: Мой Тестовый Сайт
 email: your-email@example.com
 description: >- # Описание сайта
-  Здесь я тестирую Jekyll перед запуском основного сайта игры.
+  ХАХАХАХХ
 
-# Настройки путей (Самое важное!)
-baseurl: "/test-jekyll" # ВАЖНО: Название вашего репозитория со слэшем в начале
-url: "https://niamonty.github.io" # Ваш технический адрес GitHub
+# Настройки путей
+baseurl: "/tm_site"
+url: "https://niamonty.github.io"
 
 # Сборка
 markdown: kramdown
