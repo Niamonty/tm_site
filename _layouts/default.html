@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+    <nav>
+        <a href="{{ '/' | relative_url }}">В начало лабиринта</a> |
+        <a href="{{ '/about.html' | relative_url }}">Смысл бытия</a>
+    </nav>
+
+    <div class="container">
+        {{ content }}
+    </div>
+
+    <footer>© 2026 Корпорация Иллюзий. Все права защищены от здравого смысла.</footer>
+</body>
+</html>
